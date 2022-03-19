@@ -1,5 +1,5 @@
 # Collage-managment-system
-A Desktop Application for managing a college data. It's developed using Java programming language &amp; MySQL database.
+A Desktop Application for managing a college data. It's developed using Java programming language & MySQL database.
 
 # How to use:
 	We advise the user to follow these steps respectively in order to easily use the program.
